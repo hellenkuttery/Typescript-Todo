@@ -66,6 +66,11 @@
 </a>
 </p>
 
+# Geleceğin Developerı
+
+** bu yazılımcı çok gelecek vaadediyor ** 
+
+- bu madde işareti
 
 ![developerimaj](https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev3199cfde42136fdb9c52ff000079db5a.jpg?sfvrsn=978aa05f_0)
 
