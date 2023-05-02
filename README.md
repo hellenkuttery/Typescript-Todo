@@ -46,7 +46,7 @@
 
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/hellenkuttery/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
