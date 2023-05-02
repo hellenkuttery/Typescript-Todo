@@ -65,3 +65,5 @@
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery)](https://github.com/hellenkuttery/deneme-repo)
