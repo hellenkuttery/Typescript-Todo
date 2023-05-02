@@ -66,4 +66,4 @@
 </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery)](https://github.com/hellenkuttery/deneme-repo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery&show_icons=true&theme=tokyonight)](https://github.com/hellenkuttery/deneme-repo)
