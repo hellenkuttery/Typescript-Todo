@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo App
 
 ## Description
@@ -80,3 +81,8 @@ To run this project locally, follow these steps:
 ```
 
 This project serves as a practical example of how to implement a TypeScript-based CRUD application with React and Context API. 🚀
+=======
+
+# TypeScript Todo App
+>>>>>>> 5178553127432a07fb6f9e3954bf78a69a7b2e11
+>>>>>>> 9bb350afcededeb9426d58f4b41c575e55b4f633
